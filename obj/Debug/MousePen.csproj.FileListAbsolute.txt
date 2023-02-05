@@ -2,7 +2,6 @@ C:\Users\spark\source\repos\MousePen\bin\Debug\MousePen.exe.config
 C:\Users\spark\source\repos\MousePen\bin\Debug\MousePen.exe
 C:\Users\spark\source\repos\MousePen\bin\Debug\MousePen.pdb
 C:\Users\spark\source\repos\MousePen\obj\Debug\MousePen.csproj.AssemblyReference.cache
-C:\Users\spark\source\repos\MousePen\obj\Debug\MousePen.csproj.SuggestedBindingRedirects.cache
 C:\Users\spark\source\repos\MousePen\obj\Debug\MousePen.Form1.resources
 C:\Users\spark\source\repos\MousePen\obj\Debug\MousePen.Properties.Resources.resources
 C:\Users\spark\source\repos\MousePen\obj\Debug\MousePen.csproj.GenerateResource.cache
